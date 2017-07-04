@@ -16,11 +16,10 @@ Created by FontForge 20161013 at Thu Jan  1 01:40:00 1970
     panose-1="0 0 0 0 0 0 0 0 0 0"
     ascent="700"
     descent="-300"
-    cap-height="1"
     bbox="0 0 432 700"
     underline-thickness="50"
     underline-position="-200"
-    unicode-range="U+0020-0061"
+    unicode-range="U+0020-006F"
   />
 <missing-glyph horiz-adv-x="432" 
 d="M0 700v-700h432v700h-432zM50 50v600h332v-600h-332z" />
@@ -34,18 +33,18 @@ d="M0 700v-700h432v700h-432zM50 50v600h332v-600h-332z" />
  />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="333" 
  />
-    <glyph glyph-name="zero" unicode="0" horiz-adv-x="10" 
+    <glyph glyph-name="zero" unicode="0" 
  />
-    <glyph glyph-name="one" unicode="1" horiz-adv-x="10" 
-d="M0 700h10v-700h-10v700z" />
+    <glyph glyph-name="one" unicode="1" 
+d="M0 700h21v-700h-21v700z" />
     <glyph glyph-name="A" unicode="A" 
-d="M1 1v-1h1v1h-1z" />
+ />
     <glyph glyph-name="B" unicode="B" horiz-adv-x="40" 
-d="M0 1v-1h1v1h-1z" />
+ />
     <glyph glyph-name="C" unicode="C" horiz-adv-x="60" 
-d="M0 1v-1h1v1h-1z" />
+ />
     <glyph glyph-name="D" unicode="D" horiz-adv-x="80" 
-d="M0 1v-1h1v1h-1z" />
+ />
     <glyph glyph-name="E" unicode="E" 
 d="M0 700v-700h21v700h-21z" />
     <glyph glyph-name="F" unicode="F" horiz-adv-x="40" 
@@ -55,6 +54,22 @@ d="M0 700v-700h61v700h-61z" />
     <glyph glyph-name="H" unicode="H" horiz-adv-x="80" 
 d="M0 700v-700h81v700h-81z" />
     <glyph glyph-name="a" unicode="a" 
+ />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="40" 
+ />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="60" 
+ />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="80" 
+ />
+    <glyph glyph-name="e" unicode="e" 
 d="M0 400v-400h21v400h-21z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="40" 
+d="M0 400v-400h41v400h-41z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="60" 
+d="M0 400v-400h61v400h-61z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="80" 
+d="M0 400v-400h81v400h-81z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="1" 
+ />
   </font>
 </defs></svg>
