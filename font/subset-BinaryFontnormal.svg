@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20161013 at Thu Jan  1 01:40:00 1970
+ By ,,,
+ 
+</metadata>
+<defs>
+<font id="BinaryFontnormal" horiz-adv-x="333" >
+  <font-face 
+    font-family="BinaryFont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="700"
+    descent="-300"
+    bbox="0 0 432 700"
+    underline-thickness="50"
+    underline-position="-200"
+    unicode-range="U+0020-0031"
+  />
+<missing-glyph horiz-adv-x="472" 
+d="M0 700v-700h432v700h-432zM50 50v600h332v-600h-332z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="472" 
+d="M0 700v-700h432v700h-432zM50 50v600h332v-600h-332z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="10" 
+ />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="10" 
+d="M0 700v-700h10v700h-10z" />
+  </font>
+</defs></svg>
